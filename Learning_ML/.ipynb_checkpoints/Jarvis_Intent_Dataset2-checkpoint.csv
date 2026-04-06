@@ -1,0 +1,196 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+hey jarvis,greeting
+hello assistant,greeting
+good morning,greeting
+good evening,greeting
+what's up,greeting
+how are you,greeting
+yo jarvis,greeting
+
+open chrome,open_app
+launch calculator,open_app
+start notepad,open_app
+run command prompt,open_app
+open vscode,open_app
+launch brave browser,open_app
+open camera,open_app
+start powershell,open_app
+open task manager,open_app
+launch gmail,open_app
+
+battery status,battery_status
+how much battery left,battery_status
+tell me battery percentage,battery_status
+is battery low,battery_status
+check battery,battery_status
+battery info,battery_status
+show battery status,battery_status
+
+increase brightness,brightness_control
+decrease brightness,brightness_control
+set brightness to 50 percent,brightness_control
+brightness up,brightness_control
+brightness down,brightness_control
+adjust brightness,brightness_control
+
+read clipboard,clipboard_read
+what is in clipboard,clipboard_read
+show clipboard content,clipboard_read
+paste content,clipboard_read
+tell me clipboard data,clipboard_read
+
+what time is it,date_time
+tell me the time,date_time
+current time,date_time
+what is today's date,date_time
+tell me today's date,date_time
+date and time,date_time
+
+disk usage,disk_status
+check disk space,disk_status
+how much storage left,disk_status
+show disk status,disk_status
+storage info,disk_status
+
+find resume doc,doc_search
+find project report document,doc_search
+search assignment doc,doc_search
+open my notes document,doc_search
+find doc file,doc_search
+
+find resume pdf,pdf_search
+find machine learning pdf,pdf_search
+search project report pdf,pdf_search
+open notes pdf,pdf_search
+locate pdf file,pdf_search
+
+find image,image_search
+search photo,image_search
+open picture,image_search
+find screenshot,image_search
+search png file,image_search
+
+open projects folder,folder_search
+find dataset folder,folder_search
+search jarvis folder,folder_search
+open documents folder,folder_search
+find my files folder,folder_search
+
+check internet speed,internet_speed
+test wifi speed,internet_speed
+internet speed test,internet_speed
+how fast is internet,internet_speed
+
+what is my ip address,ip_address
+show ip address,ip_address
+tell my ip,ip_address
+get ip address,ip_address
+
+lock screen,lock_screen
+lock my computer,lock_screen
+lock pc,lock_screen
+secure my system,lock_screen
+
+play music,media_control
+pause music,media_control
+next song,media_control
+previous song,media_control
+stop music,media_control
+
+open youtube,open_website
+open google,open_website
+open github,open_website
+go to linkedin,open_website
+open amazon,open_website
+
+exit jarvis,quit
+close jarvis,quit
+shutdown assistant,quit
+stop jarvis,quit
+goodbye,quit
+
+restart computer,restart_pc
+restart pc,restart_pc
+reboot system,restart_pc
+restart my laptop,restart_pc
+
+shutdown computer,shutdown_pc
+turn off pc,shutdown_pc
+power off system,shutdown_pc
+shutdown laptop,shutdown_pc
+
+take screenshot,screenshot
+capture screen,screenshot
+take screen capture,screenshot
+screenshot now,screenshot
+
+system status,system_status
+cpu usage,system_status
+ram usage,system_status
+system performance,system_status
+
+system uptime,system_uptime
+how long system running,system_uptime
+uptime of pc,system_uptime
+
+increase volume,volume_control
+decrease volume,volume_control
+mute volume,volume_control
+unmute volume,volume_control
+set volume to 50 percent,volume_control
+
+wifi status,wifi_status
+is wifi connected,wifi_status
+check wifi connection,wifi_status
+wifi info,wifi_statuscheck cpu,system_status
+how much cpu am i using,system_status
+memory usage,system_status
+show me ram stats,system_status
+what is my cpu load,system_status
+current system stats,system_status
+disk usage,system_status
+how much memory is being used,system_status
+system health,system_status
+processor usage,system_status
+check system resources,system_status
+is my pc overloaded,system_status
+how long has my computer been on,system_uptime
+when did system start,system_uptime
+pc uptime,system_uptime
+how long since last restart,system_uptime
+check uptime,system_uptime
+time since boot,system_uptime
+how long has the system been running,system_uptime
+last reboot time,system_uptime
+system boot time,system_uptime
+when was computer last restarted,system_uptime
+machine uptime,system_uptime
+turn up the volume,volume_control
+turn down the volume,volume_control
+volume up,volume_control
+volume down,volume_control
+make it louder,volume_control
+make it quieter,volume_control
+silence the audio,volume_control
+unmute audio,volume_control
+set volume to 30,volume_control
+set volume to maximum,volume_control
+set volume to minimum,volume_control
+raise volume by 10,volume_control
+lower volume by 20,volume_control
+what is the current volume,volume_control
+volume at 75 percent,volume_control
+am i connected to wifi,wifi_status
+show wifi details,wifi_status
+internet connection status,wifi_status
+is my internet working,wifi_status
+what wifi am i connected to,wifi_status
+check network connection,wifi_status
+network status,wifi_status
+wifi signal strength,wifi_status
+show connected network,wifi_status
+is there internet,wifi_status
+wifi ip address,wifi_status

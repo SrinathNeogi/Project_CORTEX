@@ -1,0 +1,566 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+hey jarvis,greeting
+hello assistant,greeting
+good morning,greeting
+good evening,greeting
+what's up,greeting
+how are you,greeting
+yo jarvis,greeting
+open chrome,open_app
+launch calculator,open_app
+start notepad,open_app
+run command prompt,open_app
+open vscode,open_app
+launch brave browser,open_app
+open camera,open_app
+start powershell,open_app
+open task manager,open_app
+launch gmail,open_app
+battery status,battery_status
+how much battery left,battery_status
+tell me battery percentage,battery_status
+is battery low,battery_status
+check battery,battery_status
+battery info,battery_status
+show battery status,battery_status
+increase brightness,brightness_control
+decrease brightness,brightness_control
+set brightness to 50 percent,brightness_control
+brightness up,brightness_control
+brightness down,brightness_control
+adjust brightness,brightness_control
+read clipboard,clipboard_read
+what is in clipboard,clipboard_read
+show clipboard content,clipboard_read
+paste content,clipboard_read
+tell me clipboard data,clipboard_read
+what time is it,date_time
+tell me the time,date_time
+current time,date_time
+what is today's date,date_time
+tell me today's date,date_time
+date and time,date_time
+disk usage,disk_status
+check disk space,disk_status
+how much storage left,disk_status
+show disk status,disk_status
+storage info,disk_status
+find resume doc,doc_search
+find project report document,doc_search
+search assignment doc,doc_search
+open my notes document,doc_search
+find doc file,doc_search
+find resume pdf,pdf_search
+find machine learning pdf,pdf_search
+search project report pdf,pdf_search
+open notes pdf,pdf_search
+locate pdf file,pdf_search
+find image,image_search
+search photo,image_search
+open picture,image_search
+find screenshot,image_search
+search png file,image_search
+open projects folder,folder_search
+find dataset folder,folder_search
+search jarvis folder,folder_search
+open documents folder,folder_search
+find my files folder,folder_search
+check internet speed,internet_speed
+test wifi speed,internet_speed
+internet speed test,internet_speed
+how fast is internet,internet_speed
+what is my ip address,ip_address
+show ip address,ip_address
+tell my ip,ip_address
+get ip address,ip_address
+lock screen,lock_screen
+lock my computer,lock_screen
+lock pc,lock_screen
+secure my system,lock_screen
+play music,media_control
+pause music,media_control
+next song,media_control
+previous song,media_control
+stop music,media_control
+open youtube,open_website
+open google,open_website
+open github,open_website
+go to linkedin,open_website
+open amazon,open_website
+exit jarvis,quit
+close jarvis,quit
+shutdown assistant,quit
+stop jarvis,quit
+goodbye,quit
+restart computer,restart_pc
+restart pc,restart_pc
+reboot system,restart_pc
+restart my laptop,restart_pc
+shutdown computer,shutdown_pc
+turn off pc,shutdown_pc
+power off system,shutdown_pc
+shutdown laptop,shutdown_pc
+take screenshot,screenshot
+capture screen,screenshot
+take screen capture,screenshot
+screenshot now,screenshot
+system status,system_status
+cpu usage,system_status
+ram usage,system_status
+system performance,system_status
+system uptime,system_uptime
+how long system running,system_uptime
+uptime of pc,system_uptime
+increase volume,volume_control
+decrease volume,volume_control
+mute volume,volume_control
+unmute volume,volume_control
+set volume to 50 percent,volume_control
+wifi status,wifi_status
+is wifi connected,wifi_status
+check wifi connection,wifi_status
+wifi info,wifi_status
+check cpu,system_status
+how much cpu am i using,system_status
+memory usage,system_status
+show me ram stats,system_status
+what is my cpu load,system_status
+current system stats,system_status
+disk usage,system_status
+how much memory is being used,system_status
+system health,system_status
+processor usage,system_status
+check system resources,system_status
+is my pc overloaded,system_status
+how long has my computer been on,system_uptime
+when did system start,system_uptime
+pc uptime,system_uptime
+how long since last restart,system_uptime
+check uptime,system_uptime
+time since boot,system_uptime
+how long has the system been running,system_uptime
+last reboot time,system_uptime
+system boot time,system_uptime
+when was computer last restarted,system_uptime
+machine uptime,system_uptime
+turn up the volume,volume_control
+turn down the volume,volume_control
+volume up,volume_control
+volume down,volume_control
+make it louder,volume_control
+make it quieter,volume_control
+silence the audio,volume_control
+unmute audio,volume_control
+set volume to 30,volume_control
+set volume to maximum,volume_control
+set volume to minimum,volume_control
+raise volume by 10,volume_control
+lower volume by 20,volume_control
+what is the current volume,volume_control
+volume at 75 percent,volume_control
+am i connected to wifi,wifi_status
+show wifi details,wifi_status
+internet connection status,wifi_status
+is my internet working,wifi_status
+what wifi am i connected to,wifi_status
+check network connection,wifi_status
+network status,wifi_status
+wifi signal strength,wifi_status
+show connected network,wifi_status
+is there internet,wifi_status
+wifi ip address,wifi_status
+good afternoon,greeting
+good night,greeting
+hi there,greeting
+hello jarvis,greeting
+hey there,greeting
+greetings,greeting
+sup jarvis,greeting
+wake up jarvis,greeting
+you there,greeting
+are you awake,greeting
+start up,greeting
+i need you,greeting
+hello there,greeting
+hey assistant,greeting
+jarvis wake up,greeting
+open spotify,open_app
+launch excel,open_app
+open word,open_app
+start vlc,open_app
+launch file explorer,open_app
+open settings,open_app
+run paint,open_app
+open whatsapp,open_app
+launch discord,open_app
+start terminal,open_app
+open telegram,open_app
+launch zoom,open_app
+open control panel,open_app
+run python,open_app
+open outlook,open_app
+battery percentage,battery_status
+how much charge left,battery_status
+is battery charging,battery_status
+battery level,battery_status
+check power level,battery_status
+how long till battery dies,battery_status
+battery health,battery_status
+remaining battery,battery_status
+power status,battery_status
+is laptop plugged in,battery_status
+battery remaining time,battery_status
+show power info,battery_status
+how much juice left,battery_status
+is battery full,battery_status
+charging status,battery_status
+battery drain,battery_status
+low battery warning,battery_status
+power level,battery_status
+make screen brighter,brightness_control
+make screen dimmer,brightness_control
+set brightness to 70,brightness_control
+dim the screen,brightness_control
+lower brightness,brightness_control
+raise brightness,brightness_control
+full brightness,brightness_control
+minimum brightness,brightness_control
+screen brightness up,brightness_control
+screen brightness down,brightness_control
+set display brightness,brightness_control
+screen too bright,brightness_control
+screen too dim,brightness_control
+brightness at 30 percent,brightness_control
+brightness at 80 percent,brightness_control
+increase screen brightness,brightness_control
+reduce screen brightness,brightness_control
+auto brightness,brightness_control
+night mode brightness,brightness_control
+what did i copy,clipboard_read
+show what i copied,clipboard_read
+clipboard text,clipboard_read
+get clipboard,clipboard_read
+read what is copied,clipboard_read
+what is copied,clipboard_read
+display clipboard,clipboard_read
+clipboard contents,clipboard_read
+what is on my clipboard,clipboard_read
+show copied text,clipboard_read
+retrieve clipboard data,clipboard_read
+check clipboard,clipboard_read
+fetch clipboard,clipboard_read
+copy paste content,clipboard_read
+what have i copied,clipboard_read
+last copied item,clipboard_read
+read my clipboard,clipboard_read
+view clipboard,clipboard_read
+clipboard info,clipboard_read
+print clipboard,clipboard_read
+what day is it,date_time
+current date,date_time
+tell me the date,date_time
+what is the time,date_time
+show me the time,date_time
+what month is it,date_time
+what year is it,date_time
+today's day,date_time
+time right now,date_time
+what is today,date_time
+current time and date,date_time
+give me the time,date_time
+what week is it,date_time
+day of the week,date_time
+tell me today,date_time
+what time is it now,date_time
+show date,date_time
+check the time,date_time
+display time,date_time
+how much disk space do i have,disk_status
+free space on disk,disk_status
+hard drive usage,disk_status
+ssd space left,disk_status
+storage space remaining,disk_status
+check storage,disk_status
+disk info,disk_status
+how full is my disk,disk_status
+disk capacity,disk_status
+available storage,disk_status
+c drive space,disk_status
+how much space left on hard drive,disk_status
+disk health,disk_status
+is disk full,disk_status
+storage status,disk_status
+show drive info,disk_status
+hard disk space,disk_status
+partition size,disk_status
+total disk space,disk_status
+remaining storage space,disk_status
+find my cv,doc_search
+search for word document,doc_search
+locate my report,doc_search
+find text file,doc_search
+search for notes,doc_search
+open my resume,doc_search
+find letter doc,doc_search
+locate assignment document,doc_search
+search docs folder,doc_search
+find my thesis,doc_search
+open my essay,doc_search
+search word file,doc_search
+find my document,doc_search
+look for my notes,doc_search
+find proposal doc,doc_search
+search my documents,doc_search
+locate text document,doc_search
+find my project file,doc_search
+open recent document,doc_search
+search for docx file,doc_search
+find pdf file,pdf_search
+search for pdf,pdf_search
+locate pdf document,pdf_search
+open pdf,pdf_search
+find my ebook,pdf_search
+search pdf folder,pdf_search
+find research paper,pdf_search
+locate my invoice pdf,pdf_search
+find payslip pdf,pdf_search
+search for lecture notes pdf,pdf_search
+open my syllabus pdf,pdf_search
+find textbook pdf,pdf_search
+locate certificate pdf,pdf_search
+search for study material pdf,pdf_search
+find my manual pdf,pdf_search
+open my report pdf,pdf_search
+find handbook pdf,pdf_search
+search resume pdf,pdf_search
+locate form pdf,pdf_search
+find my assignment pdf,pdf_search
+find my photos,image_search
+search for image,image_search
+locate picture file,image_search
+find jpg file,image_search
+search wallpaper,image_search
+find my selfie,image_search
+locate image file,image_search
+search for png,image_search
+find my photos folder,image_search
+look for a picture,image_search
+find my artwork,image_search
+search photos directory,image_search
+find downloaded image,image_search
+open an image file,image_search
+locate my screenshots folder,image_search
+find profile picture,image_search
+search for jpeg file,image_search
+find my logo,image_search
+open picture file,image_search
+find my wallpaper,image_search
+find my downloads folder,folder_search
+open desktop folder,folder_search
+locate project directory,folder_search
+search for folder,folder_search
+find my music folder,folder_search
+open pictures folder,folder_search
+locate videos folder,folder_search
+find temp folder,folder_search
+search for directory,folder_search
+open my work folder,folder_search
+find school folder,folder_search
+locate backup folder,folder_search
+search for jarvis directory,folder_search
+find code folder,folder_search
+open my project directory,folder_search
+locate my data folder,folder_search
+find my storage folder,folder_search
+search for python project folder,folder_search
+find my archive folder,folder_search
+locate my workspace,folder_search
+check my internet speed,internet_speed
+how fast is my wifi,internet_speed
+run speed test,internet_speed
+bandwidth check,internet_speed
+ping test,internet_speed
+network speed,internet_speed
+download speed,internet_speed
+upload speed,internet_speed
+is my internet fast,internet_speed
+how much bandwidth do i have,internet_speed
+test my connection speed,internet_speed
+check ping,internet_speed
+internet performance,internet_speed
+how good is my connection,internet_speed
+latency check,internet_speed
+mbps check,internet_speed
+check download speed,internet_speed
+wifi speed test,internet_speed
+speed of internet,internet_speed
+check upload speed,internet_speed
+measure internet speed,internet_speed
+my ip,ip_address
+what is my public ip,ip_address
+local ip address,ip_address
+find my ip,ip_address
+ipv4 address,ip_address
+ipv6 address,ip_address
+network ip,ip_address
+what is my network address,ip_address
+show my ip address,ip_address
+current ip address,ip_address
+check my ip,ip_address
+what is my local ip,ip_address
+display ip,ip_address
+fetch my ip address,ip_address
+get my ip,ip_address
+tell me my ip,ip_address
+ip info,ip_address
+router ip address,ip_address
+device ip address,ip_address
+what ip am i on,ip_address
+machine ip address,ip_address
+lock my screen,lock_screen
+lock the display,lock_screen
+screen lock,lock_screen
+secure the screen,lock_screen
+lock workstation,lock_screen
+lock laptop,lock_screen
+lock windows,lock_screen
+activate lock screen,lock_screen
+lock the computer,lock_screen
+secure my pc,lock_screen
+go to lock screen,lock_screen
+enable lock screen,lock_screen
+sign out screen,lock_screen
+lock display now,lock_screen
+secure the workstation,lock_screen
+put pc on lock,lock_screen
+lock machine,lock_screen
+protect my screen,lock_screen
+password lock screen,lock_screen
+switch to lock screen,lock_screen
+lock mode,lock_screen
+resume music,media_control
+skip song,media_control
+go back song,media_control
+stop the music,media_control
+play next track,media_control
+play previous track,media_control
+pause the song,media_control
+resume playback,media_control
+play video,media_control
+pause video,media_control
+stop video,media_control
+skip track,media_control
+rewind song,media_control
+fast forward,media_control
+shuffle music,media_control
+repeat song,media_control
+stop playback,media_control
+play audio,media_control
+pause audio,media_control
+next track,media_control
+open twitter,open_website
+open instagram,open_website
+open facebook,open_website
+go to google,open_website
+open reddit,open_website
+open netflix,open_website
+go to youtube,open_website
+open stackoverflow,open_website
+launch website,open_website
+open chatgpt,open_website
+go to github,open_website
+open wikipedia,open_website
+open gmail website,open_website
+browse to amazon,open_website
+navigate to linkedin,open_website
+open flipkart,open_website
+go to openai,open_website
+open spotify website,open_website
+go to twitch,open_website
+open pinterest,open_website
+bye,quit
+bye jarvis,quit
+see you later,quit
+that will be all,quit
+you can stop now,quit
+close assistant,quit
+exit assistant,quit
+quit jarvis,quit
+terminate jarvis,quit
+shut down jarvis,quit
+turn off jarvis,quit
+end session,quit
+stop assistant,quit
+dismiss jarvis,quit
+go to sleep,quit
+sleep mode jarvis,quit
+i am done,quit
+we are done,quit
+close program,quit
+deactivate jarvis,quit
+reboot pc,restart_pc
+reboot computer,restart_pc
+reboot laptop,restart_pc
+restart system,restart_pc
+restart the machine,restart_pc
+reboot the machine,restart_pc
+do a restart,restart_pc
+please restart,restart_pc
+fresh restart,restart_pc
+force restart,restart_pc
+soft reboot,restart_pc
+warm restart,restart_pc
+restart windows,restart_pc
+restart now,restart_pc
+perform restart,restart_pc
+do a reboot,restart_pc
+reboot now,restart_pc
+restart the computer please,restart_pc
+give the system a restart,restart_pc
+quick restart,restart_pc
+initiate restart,restart_pc
+take a screenshot,screenshot
+capture the screen,screenshot
+grab screenshot,screenshot
+screenshot please,screenshot
+capture current screen,screenshot
+take screen grab,screenshot
+screen capture now,screenshot
+snap the screen,screenshot
+save screenshot,screenshot
+capture display,screenshot
+take a snap of screen,screenshot
+grab the screen,screenshot
+get a screenshot,screenshot
+print screen,screenshot
+save screen image,screenshot
+capture window,screenshot
+screenshot the screen,screenshot
+make a screenshot,screenshot
+take screen image,screenshot
+screen snap,screenshot
+capture my screen,screenshot
+shut down my computer,shutdown_pc
+power off pc,shutdown_pc
+turn off computer,shutdown_pc
+shut down pc,shutdown_pc
+power down,shutdown_pc
+shut off laptop,shutdown_pc
+turn off laptop,shutdown_pc
+power off laptop,shutdown_pc
+switch off computer,shutdown_pc
+switch off pc,shutdown_pc
+shut the system down,shutdown_pc
+force shutdown,shutdown_pc
+shut down now,shutdown_pc
+complete shutdown,shutdown_pc
+initiate shutdown,shutdown_pc
+power off now,shutdown_pc
+turn the pc off,shutdown_pc
+kill the system,shutdown_pc
+system off,shutdown_pc
+shutdown system now,shutdown_pc
+please shut down,shutdown_pc
