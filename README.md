@@ -4,7 +4,7 @@
 
 ### **C**entralized **O**perational **R**esponsive **T**echnical **EX**ecution System
 
-> *Your intelligent, offline-first desktop assistant — built for those who demand speed, privacy, and power.*
+> *Your intelligent desktop assistant — designed for speed, privacy, and power, with selective internet support for voice processing.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-informational?style=for-the-badge)](https://github.com)
